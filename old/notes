@@ -1,0 +1,67 @@
+The Shortcomings of Existing AI Systems
+
+In the effort to raise a new AI from the ashes of the old, I am
+seeking to understand the problems with the old, and to lay them out
+here in exposition.
+
+There is no system among those released publicly that can claim to
+have intelligence, though there are programs which can do so.  They
+simply have not yet been written, or if they have been written, not
+yet released.
+
+Let us look at the Cyc project.  Cyc is too high level.  It lacks
+basic reasoning skills, though it has philosopher level understanding.
+For the most part, it simply follows explicit inference programming.
+Its actual ability to understand something, even something basic, is
+very limited.  It focuses on having the correct language, no doubt a
+powerful approach, but does not account for natural reasoning and
+thinking skills, so that at best it is a data repository with a few
+rules of inference.
+
+It's ability to comprehend, reason analogically, make simple
+observations, if they exist at all, are subsumed in its reasoning
+systems.
+
+A problem with Cyc is that it is kind of like teaching calculus to a
+toddler.  It has too much "knowledge" as they call it, but it is not
+really knowledge, it is simply factual at best.  What constitutes the
+basis for true intelligence is not present.
+
+Cyc has no imagination to wit.  I imagine imagination will be critical
+to intelligence.
+
+Other systems have similar failings.  They are all elaborate systems
+with explicit forms of representation.  The algorithms are fully
+understood, there is nothing mysterious or even emergent about them.
+They are more like programming languages or libraries than intelligent
+systems.
+
+By focusing on performance immediately, they erect incomplete models,
+rather than focusing on mechanism that derive the programming.
+
+Still the basic paradox arises, how do you create the AI.  If you
+program, you will get a program that is merely capable of following
+its instructions.  You will have a library and everything you tried to
+accomplish will slip through into the maintainence of that program.
+
+If you do not program the AI, how do you create it?  Paradigms like
+evolutionary programs are not sufficient either.
+
+The real trick is how to with maximal minimal work, derive a novel
+system that has enough power to learn.  Basic data representation is
+not really sufficient.  If we must use a language, how can the
+language be binding and conformant to the reality of the organism's
+situation.
+
+If we do model the organism on biological models, how do we know what
+is relevant?
+
+Maybe I can make a system with a metabolism.  Focusing on endowing
+this will life-critical features, kind of like the hacktivism
+self-regulating system.  And then build up from there mechanisms of
+greater intelligence.
+
+Things to note.
+
+Feeds off of energy, a symbiote to the computer.  Maybe no survival by
+spreading.

@@ -1,0 +1,238 @@
+This is a search algorithm.  I'm not sure exactly how it worked, but
+the idea is to do a backtracking search over wide ranging structures.
+I forget exactly how this search algorithm works.  But mainly, it
+tries different things and if they fail, it tries other.
+
+Let's remember the use cases.
+
+In RADAR, there was a use for selecting what type of 
+
+suppose this is true, evaluate aspects of this, determine if it works
+or not
+
+Here is a trace
+
+This search algorithm is useful but as I cannot recall it, I cannot
+really make use of it at this point.
+
+
+
+# supposition
+
+# imagination
+
+# stream of consciousness (thoughts that grab attention)
+
+
+# a search with theorem proving to recognize limitations
+
+# realtime control of a system
+
+# hardwired embodiment
+
+# the all seeing eye
+
+# has a will of its own, different personality, instictive actions
+
+Here is part of the search.  It can do different operations, stopping
+on failure, etc.  So the basic test case will be a system for
+searching out software.  Not a bad test case.
+
+Okay, so it has different operations it can perform.  For instance, it
+can extract names of software systems from text using one program, or
+recognize named entities.
+
+It's ultimate goal is to create a database or ontology of software.
+
+<strategies>
+  <strategy>
+    <system>AutoTutor</system>
+    <obtained-source>No</obtained-source>
+    <strategy>
+      <step>
+	google_search("mixed initiative planning software download site:edu");
+      </step>
+      <step>
+	# tenth result was
+	http://www.cs.pitt.edu/~litman/courses/cs3710/cs3710.html
+      </step>
+      <step>
+	# read about autotutor while reading this document
+      </step>
+      <step>
+	google_search("autotutor");	
+      </step>
+      <step>
+	# first result was
+	http://www.autotutor.org
+      </step>
+      <step>
+	# Stopped there because it says "Contact Patrick Chipman for more information"
+      </step>
+    </strategy>
+    <recommended-steps>
+      <step>
+	Check faculty.
+      </step>
+      <step>
+      </step>
+    </recommended-steps>
+  </strategy>
+</strategies>
+
+
+A major problem with current stuff is the lack of general
+understanding.  For instance, if you have a planning system, and it
+generates a plan, can it think about that plan?  Dumb way of saying it
+given my current level of stupidity, but generally, there are
+instances where it would be nice if it could stop and think about
+certain things.  For instance, display true meta-level thought.
+Thinking about certain things and making observations about them.
+
+System to formulate experiments, conduct them, and evaluate and
+incorporate the results.
+
+Here is a major representation problem.  These AI systems tend to
+store strings, and hash them to dictionaries and other data structures.
+But this is not a normal representation.  Children first learn
+individual letters, sounds, etc.  In other words the representations
+are too flat.
+
+X reminds me of Y
+if
+blah blah blah
+
+now a kid intuitively notes that these things are reminiscent, and
+eventually learns that reminds is the proper use, so imagine, at one
+further level of evaluation.
+
+"reminds me of" used in this case (X "reminds me of" Y) iff (blah blah blah) if
+observation (ZKJFDJSOIFJD X Y (blah blah blah)).
+
+Now reiterate this crude representation, which is flat around the
+edges.
+
+Some things to notice, this is still a logical representation.
+
+This would seem to be a discussion of linguistic semantics and their
+acquisition.
+
+That is a powerful rule, observing how often I misunderstood
+something, (ie. "Whatever floats your goat"), that phylogenetic
+ritualization accounts for a large part of learning.  I.e., a child
+observes that in a certain case, they ought to do something.
+
+How do they go about applying it in a more complex case?  Do they
+isolate the problem?  There are many different contexts, but we
+clearly do not want a formalization of contexts as that simply
+reiterates the logical methodology, and the errors inherent in that
+approach.
+
+Looking at "crude representation" above, it is interesting to note
+that I can see the abstract property of crudeness in the
+representation above.  That seems to suggest that I observed, to use a
+patternist theory of mind, the pattern of crudity (as could be
+axiomatized) in the above text.  Let's look for features that might
+have indicated this.
+
+Perhaps it was infered from the concept of "flat".  Now crude is
+defined as (from memory): something having a similar structure but not
+all the properties, a fake.
+
+Note here that it would be possible to write a program that would use
+theorems and derive observations such as this is crude based on
+pattern matching, yet that would be overtly programming it.  The
+system would be inflexible and unable to think about things beyond the
+boundaries of that programming, it could not think about its own style
+of thought, having no data.
+
+Perhaps children are able to figure out how something works by
+analyzing its behaviour in different cases.  They can come up with
+models for how something behaves.  They can test these models through
+experimentation.
+
+Knowing how it works then, they can manipulate it along with other
+things to obtain goals.
+
+Interestingly, <REDACTED:PERSON> observes that a computer can only
+think so far as it is programmed to, whereas I feel that by creating
+the right base system, one can use the environment to focus the
+results of interactions with the environment so that the computer
+manifests many features of thinking.
+
+The actual reality somehow makes its way into the program based on the
+programs execution.
+
+What's outside the computer interacts withit causing it to learn.
+
+<REDACTED:PERSON> doesn't know if that is possible with a computer.
+
+So you are saying that a human mind can be represented by a computer.
+
+No, we all know that computers can play chess.  That is a form a
+thinking, albeit a very restricted one.  I am trying to write programs
+that exhibit a more general form of thinking.
+
+It's possible to exhibit more general forms of thought without
+exhibiting human thought.
+
+I want to come up with a rather minimal set of systems, such that when
+these systems interact they generate large, possibly recursive data
+structures that, when used by the parts of the system, they
+automatically behave in a way that allows for more general forms of
+thought.
+
+So what are these systems?  What properties do they have?  Are they
+self-modifiable?  Certainly, doesn't learning require them to be?
+
+<REDACTED:PERSON>: Something has to remind the computer of something
+else.  There has to be a connection.
+
+A system that can do analogical reasoning.
+
+Do we program these capabilities in ourselves, or do we set up a
+miminal set of interacting systems that generate the capabilites?
+
+Many smaller self-regulating systems that coherently interact.
+
+Perhaps we can generate some of these to achieve their equilibria and
+then goad them into larger systems and help them to specialize.
+
+Long term memory
+Short term memory
+Retrieval from long term
+
+Network with people and ask them things about A.I..
+
+
+Okay let's downscale this project a little, as its getting out of
+control.  Let's simply write a basic algorithm that has many of the
+above properties.
+
+The algorithm will have to be complex and unpredicatable.  It should
+consist of many types of known solutions for different algorithms.
+Many "heuristics" should be employed.
+
+
+We traditionally think of search, but this is not everything.
+
+I just came up with a good analogy.  The system should not wield the
+sword, it should use the cloth to wield it like from "The House of
+Flying Daggers".
+
+Which means, whatever we want it to do, we must not do ourselves but
+implement some alteration to the base machine that results in it
+acquiring that behaviour.
+
+Coding is no longer required here.
+
+The base machine does not operate on known principles (ontology
+alignment, LCS, etc), rather it implements a set of behaviours that
+when combined result in the type of learning system we want.
+
+Evolution is not sufficient in this case, it has to be hand coded.
+
+But the absense of structure means I will have little idea what to
+code!
+
+Maybe I should just go with my intuition!
